@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
+```R
 library(dplyr)
 library(Seurat)
 library(patchwork)
